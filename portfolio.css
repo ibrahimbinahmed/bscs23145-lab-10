@@ -1,0 +1,61 @@
+.Hello
+{
+height: 40px;
+background-color: brown;
+text-align: center;
+}    
+.edu
+{
+color: black;
+
+}
+a
+{
+    color: azure;
+}
+.hm
+{
+    height: 60 px;
+    background-color: burlywood;
+    text-align: center;
+}
+img
+{
+    border-radius: 100%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10 px;
+    border-style: initial
+}
+.hello
+{
+    height: 40%;
+background-color: blueviolet;
+text-align: center;
+
+}
+.ho
+{
+    height: 40px;
+background-color: green;
+text-align: center;
+}
+h1
+{
+    color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2
+{
+    color: antiquewhite;
+}
+hr
+{
+    color: brown;
+}
+.jk
+{
+    border:2px solid black;
+}
